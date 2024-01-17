@@ -19,18 +19,19 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
+   Git clone
     ```bash
-    git clone https://github.com/sameerniku/ATM-Interface.git
+     https://github.com/sameerniku/ATM-Interface.git
     ```
 
-2. Compile and run the Main.java file:
+3. Compile and run the Main.java file:
 
     ```bash
     javac Main.java
     java Main
     ```
 
-3. Follow the on-screen instructions to navigate through the ATM functionalities.
+4. Follow the on-screen instructions to navigate through the ATM functionalities.
 
 ## Project Structure
 
